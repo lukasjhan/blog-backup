@@ -1,6 +1,6 @@
 ---
 title: "Developer Attitudes That Kill Startups"
-datePublished: Thu May 08 2025 15:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Sun Jun 08 2025 15:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmfs5m7gf000602icde5s10e9
 slug: developer-attitudes-that-kill-startups
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oqStl2L5oxI/upload/04dd50ae6359f05d6b96bb967af593bf.jpeg
